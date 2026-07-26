@@ -1,4 +1,5 @@
-Customer Segmentation using Autoencoders and Clustering
+An investigation into unsupervised machine Learning for predicting customer segment: Autoencoder method
+
 
 🎯 Project Overview
 This project explores an advanced unsupervised machine learning approach for Customer Segmentation using Autoencoders and K-means Clustering. The goal is to uncover distinct, actionable customer groups from a firm's purchase behavior data, leading to more targeted marketing strategies and a deeper understanding of the customer base.
